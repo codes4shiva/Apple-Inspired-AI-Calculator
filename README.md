@@ -32,9 +32,6 @@ An AI-based Virtual Calculator that allows users to perform mathematical operati
 4. When gesture stops or changes, the input is processed.
 5. The expression is parsed and evaluated, and the result is displayed.
 
-## 📷 Screenshots
-
-*(You can add images of your virtual canvas, hand tracking, and expression evaluation here)*
 
 ## 🛠️ Setup Instructions
 
@@ -44,9 +41,11 @@ An AI-based Virtual Calculator that allows users to perform mathematical operati
    cd virtual-calculator
 
 2. **Install Dependecies**
+  ```bash
 pip install opencv-python numpy
 
 3. **Run the application**
+ ```bash
 python virtual_calculator.py
 
 
